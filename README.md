@@ -6,3 +6,5 @@ for PBL2
 差分
 
 memo
+
+git hub上からの変更
